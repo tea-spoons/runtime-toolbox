@@ -1,0 +1,17 @@
+{
+  "name": "com.tea-spoons.runtime-toolbox",
+  "version": "0.11.1",
+  "displayName": "Runtime Toolbox",
+  "description": "A collection of diverse, handy runtime scripts.",
+  "dependencies": {
+    "com.tea-spoons.package-core": "1.4.0"
+  },
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/runtime-toolbox#readme",
+  "licensesUrl": "https://github.com/tea-spoons/runtime-toolbox/blob/main/LICENSE.md"
+}
